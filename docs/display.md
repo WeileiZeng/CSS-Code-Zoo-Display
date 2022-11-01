@@ -8,7 +8,7 @@ sample:
 sample2:
 
 {% for code in site.data.sample2 %} 
-<li> <a> n={{ code.n }} {{ code.k }} {{ code.d }} </a> </li>
+<li> <a> n= {{ code }}{{ code.n }} {{ code.k }} {{ code.d }} </a> </li>
 {% endfor %}
 
 tracks:
