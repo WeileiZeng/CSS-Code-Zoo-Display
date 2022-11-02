@@ -9,6 +9,8 @@ layout: home
 ## Contents
 [Full list](full.md)
 
+[Page build locally](local-build)
+
 
 
 create an array
