@@ -7,10 +7,13 @@ layout: home
 ## List of CSS codes
 
 ## Contents
-[Full list](full.md)
+- [Full list](full.md): 
+  - list of all the files
 
-[Page build locally](local-build)
+- [Page build locally](local-build): 
+  - Page built on Thinkpad, with copied data files using rsync.
 
+- [Homepage](/CSS-Code-Zoo-Display/)
 
 
 create an array
